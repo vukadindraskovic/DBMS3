@@ -1,0 +1,2 @@
+INSERT INTO STUDENT VALUES (1, 17603, 'Vukadin Draskovic');
+INSERT INTO STUDENT VALUES (2, 1613, 'Draskovic Vukadin');
